@@ -1,0 +1,66 @@
+.body{
+    background-color: rgb(255, 230, 252);
+}
+.header{
+    background-image: url(images/phone.png);
+    width: 480px;
+    height: 270px;
+    display: flex;
+    
+}
+.businki{
+    position: absolute;
+}
+.text1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 67px;
+    margin-top: 125px;
+    position: relative;
+}
+.cat{
+    margin-top: 145px;
+    margin-left: 248px;
+    position: absolute;
+}
+.osnova1{
+    background-color: rgb(253, 242, 228);
+    display: block;
+    margin-top: 10px;
+    width: 480px;
+    height: 250px;
+}
+.maxie{
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.heart{
+    position: relative;
+    display: inline;
+}
+.text2{
+    position: absolute;
+    margin-left: 225px;
+    margin-top: 20px;
+}
+.loveher{
+    position: relative;
+    margin-top: 0px;
+    margin-left: 105px;
+    display: inline;
+}
+.end{
+    margin-left: 205px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-top: 10px;
+    
+}
+.end1{
+    margin-left: 220px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-top: 5px;
+    
+}
